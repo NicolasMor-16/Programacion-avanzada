@@ -1,1 +1,0 @@
-En esta sección seran lso talleres orientados a c++, desde los conceptos basicos hasta el uso de archivos y apuntadores.
